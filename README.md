@@ -1,9 +1,7 @@
-![Wasim's Github Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/)
+![Wasim's Github Banner](https://i.ibb.co/512LMFF/Black-Gradient-Minimalist-Linked-In-Banner.png)
 <h1 style="text-align: center">Hi 👋, I'm Wasim Akram</h1>
 ---
-<h3 style="text-align: center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
-
-![Profile views](https://gpvc.arturio.dev/Washim-Akram)
+<h3 style="text-align: center">Passionate MERN developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 
 Skills: REACT / JS / HTML / CSS / EXPRESS / MONGODB
 
