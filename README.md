@@ -6,7 +6,7 @@
 
 ## 💫 About Me :
 
-Passionate MERN Stack developer with expertise in front-end technologies like HTML, CSS, JavaScript and React, and back-end technologies like Node.js, Express.js and MongoDB. Familiarity with Next.js and Unix-like operating systems. Always eager to learn and implement new web technologies and standards.
+<p style="font-size: 18px; text-align: justify; font-weight: 500">Passionate MERN Stack developer with expertise in front-end technologies like HTML, CSS, JavaScript and React, and back-end technologies like Node.js, Express.js and MongoDB. Familiarity with Next.js and Unix-like operating systems. Always eager to learn and implement new web technologies and standards.</p>
 
 ## 🌐 Socials :
 
@@ -18,7 +18,7 @@ Passionate MERN Stack developer with expertise in front-end technologies like HT
 
 ## 📊 GitHub Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Washim-Akram&theme=dark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Washim-Akram&theme=dark&show_icons=true)
+<img height=170 style="margin-right: 10px" src="https://streak-stats.demolab.com/?user=Washim-Akram&theme=dark" alt="Wasim Akram's GitHub Streak" /> <img height=170 src="https://github-readme-stats.vercel.app/api?username=Washim-Akram&theme=dark&show_icons=true" alt="Wasim Akram's GitHub stats" />
 
 ## 🏆 GitHub Profile Trophies :
 
@@ -26,4 +26,4 @@ Passionate MERN Stack developer with expertise in front-end technologies like HT
 
 <img height=250 style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washim-Akram&theme=dark" alt="Wasim Akram's Language stats" /> <img height=250  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washim-Akram&theme=dark&layout=donut-vertical" alt="Wasim Akram's Language stats" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+![Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
