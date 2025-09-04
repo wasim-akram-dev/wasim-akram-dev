@@ -27,3 +27,5 @@
 <img height=250 style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washim-Akram&theme=dark" alt="Wasim Akram's Language stats" /> <img height=250  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Washim-Akram&theme=dark&layout=donut-vertical" alt="Wasim Akram's Language stats" />
 
 ![Programming Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+⚡ *Note: My official academic documents are under the name **Md Jashim**, but my professional identity is **Wasim Akram**.* 
