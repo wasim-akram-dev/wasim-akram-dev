@@ -1,12 +1,12 @@
-![Wasim Akram's Github Banner](https://i.ibb.co/512LMFF/Black-Gradient-Minimalist-Linked-In-Banner.png)
+![Header](./github-header-banner.png)
 
 # Hi 👋, I'm Wasim Akram
 
-## MERN Stack Developer
+## Full Stack MERN Developer
 
 ## 💫 About Me :
 
-<p style="font-size: 18px; text-align: justify; font-weight: 500">Passionate MERN Stack developer with expertise in front-end technologies like HTML, CSS, JavaScript and React, and back-end technologies like Node.js, Express.js and MongoDB. Familiarity with Next.js and Unix-like operating systems. Always eager to learn and implement new web technologies and standards.</p>
+<p style="font-size: 18px; text-align: justify; font-weight: 500">Passionate Full Stack MERN developer with expertise in front-end technologies like HTML, CSS, JavaScript and React, and back-end technologies like Node.js, Express.js and MongoDB. Familiarity with Next.js and Unix-like operating systems. Always eager to learn and implement new web technologies and standards.</p>
 
 ⚡ *Note: My official academic documents are under the name **Md Jashim**, but my professional identity is **Wasim Akram**.*
 
